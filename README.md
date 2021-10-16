@@ -10,7 +10,7 @@
 
 🎓 &nbsp;I have a master's degree in Computer Science.
 
-👨‍💻 &nbsp; Currently, I am learning and working on MERN Stack and ethical hacking.
+👨‍💻 &nbsp; Currently, I am learning and working on MERN Stack and ASP .Net Core.
 
 ❤️ &nbsp; In my spare time, I teach what I have and explore nature with my friends.
 
