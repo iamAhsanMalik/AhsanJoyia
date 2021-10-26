@@ -14,7 +14,7 @@
 
 ❤️ &nbsp; In my spare time, I teach what I have and explore nature with my friends.
 
-💬 &nbsp;Feel free to email me at iamAhsanJoyia@gmail.com! I will try to respond as soon as possible.
+💬 &nbsp;Feel free to email me at mailto:iamAhsanJoyia@gmail.com, I will try to respond as soon as possible.
 
 
 
