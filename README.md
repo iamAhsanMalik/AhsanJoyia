@@ -9,7 +9,7 @@
 
 🎓 &nbsp;I have a master's degree in Computer Science.
 
-👨‍💻 &nbsp; Currently, I am learning and working on MERN Stack and ASP .Net Core.
+👨‍💻 &nbsp; Currently, I am learning and working on ASP .Net Core and React JS.
 
 ❤️ &nbsp; In my spare time, I teach what I have and explore nature with my friends.
 
