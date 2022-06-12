@@ -1,4 +1,4 @@
-## 👋 &nbsp;Welcome! Ahsan Joyia is here!
+## 👋 &nbsp;Welcome! Ahsan Joiya is here!
 
 <img alt="About Me" src="https://s6.gifyu.com/images/Github-Profile---Find-by-Ahsan-Joyia.gif" align="left"/>
 
@@ -9,7 +9,7 @@
 
 🎓 &nbsp;I have a master's degree in Computer Science.
 
-👨‍💻 &nbsp; Currently, I am learning and working on ASP .Net Core and React JS.
+👨‍💻 &nbsp; Currently, I am working on ASP.Net Core, React JS and AngularJS (Typescript).
 
 ❤️ &nbsp; In my spare time, I teach what I have and explore nature with my friends.
 
