@@ -1,27 +1,24 @@
-## 👋 &nbsp;Welcome! HM Ahsan Joyia is here!
+## 👋 Hi, I'm Ahsan Joyia
 
-<img alt="About Me" src="https://s6.gifyu.com/images/Github-Profile---Find-by-Ahsan-Joyia.gif" align="left"/>
+I am a Senior Software Engineer with over three years of hands-on experience in the software development industry. Currently, I am leveraging my expertise at Now Software (Nowtel) to deliver high-quality solutions and drive innovation.
 
-### About Me 
-&nbsp;
+### 💻 Expertise
 
-💡 &nbsp;I am a Full Stack developer from Joharabad, Pakistan.
+- *Programming Languages:* C#, JavaScript, Python
+- *Backend Frameworks:* ASP.NET Core, React JS, Django
+- *Frontend Frameworks:* React JS, Angular
+- *Architectures:* N-Tier Architecture, Clean Architecture, Vertical Slices
+- *Design Patterns:* Repository, Singleton, MediatR and CQRS 
+- *Also Familiar With:* Node JS, WordPress, Shopify, Web Security
 
-🎓 &nbsp;I have a master's degree in Computer Science.
+### 🎓 Education
 
-👨‍💻 &nbsp; Currently, I am working on ASP.Net Core, React JS and AngularJS (Typescript).
+- Master's degree in Computer Science from China Agriculture University
 
-❤️ &nbsp; In my spare time, I teach what I have and explore nature with my friends.
+### 🚀 My Passion
 
-💬 &nbsp;Feel free to email me at iamAhsanJoyia@gmail.com, I will try to respond as soon as possible.
+I am passionate about creating high-quality software and am always eager to learn new technologies and ways to improve my skills. I believe that communication and collaboration are essential in building great products, and I am always ready to work with others to achieve this goal.
 
-&nbsp;
-### 🛠 &nbsp;Tech Stack
+### 📫 Let's Connect
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C-Sharp&logoColor=e34234)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+If you are interested in working with me or would like to discuss anything related to software development, feel free to reach out to me. Let's create something awesome together.
