@@ -13,7 +13,7 @@ I am a Senior Software Engineer with over three years of hands-on experience in 
 
 ### 🎓 Education
 
-- Master's degree in Computer Science from China Agriculture University
+- Master's degree in Computer Science from Arid Agriculture University
 
 ### 🚀 My Passion
 
