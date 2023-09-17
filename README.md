@@ -5,8 +5,8 @@ I am a Senior Software Engineer with over three years of hands-on experience in 
 ### 💻 Expertise
 
 - *Programming Languages:* C#, JavaScript, Python
-- *Backend Frameworks:* ASP.NET Core, React JS, Django
-- *Frontend Frameworks:* React JS, Angular
+- *Backend Frameworks:* ASP.NET Core, Django
+- *Frontend Frameworks:* Next JS, Angular
 - *Architectures:* N-Tier Architecture, Clean Architecture, Vertical Slices
 - *Design Patterns:* Repository, Singleton, MediatR and CQRS 
 - *Also Familiar With:* Node JS, WordPress, Shopify, Web Security
